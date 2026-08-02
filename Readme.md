@@ -25,8 +25,7 @@ This project transforms 128,000+ raw, unorganized Amazon sales records into a hi
 2. **Reallocate Capital & Shift Fulfillment Strategy (Long-term Strategy):** Transition high-margin *Set* and *Kurta* SKUs fully to Amazon FBA to leverage faster shipping SLAs, while reducing safety stock capital bound to low-performing categories (*Sarees* and *Dupattas*).
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard/amazon_sales_report.png)  
-*(Link to interactive dashboard: [dashboard/amazon_sales.pbix](#))*
+![Dashboard Preview](dashboard/amazon_sales_report.png)
 
 ## 🛠️ Repository Structure
 ```text
