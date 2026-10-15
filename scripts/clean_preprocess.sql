@@ -92,7 +92,11 @@ WHERE ship_state = 'NL';
 
 UPDATE amazon_sales_report 
 SET ship_state = 'PUNJAB'
-WHERE ship_state LIKE 'P%';
+WHERE ship_state LIKE 'PUN%';
+
+UPDATE amazon_sales_report 
+SET ship_state = 'PUNJAB'
+WHERE ship_state LIKE 'PB%';
 
 UPDATE amazon_sales_report 
 SET ship_state = 'ANDHRA PRADESH'
